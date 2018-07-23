@@ -1,0 +1,7 @@
+c:\users\thorp\source\repos\Capstone1A\Capstone1A\bin\Debug\Capstone1A.exe.config
+c:\users\thorp\source\repos\Capstone1A\Capstone1A\bin\Debug\Capstone1A.exe
+c:\users\thorp\source\repos\Capstone1A\Capstone1A\bin\Debug\Capstone1A.pdb
+c:\users\thorp\source\repos\Capstone1A\Capstone1A\obj\Debug\Capstone1A.csprojAssemblyReference.cache
+c:\users\thorp\source\repos\Capstone1A\Capstone1A\obj\Debug\Capstone1A.csproj.CoreCompileInputs.cache
+c:\users\thorp\source\repos\Capstone1A\Capstone1A\obj\Debug\Capstone1A.exe
+c:\users\thorp\source\repos\Capstone1A\Capstone1A\obj\Debug\Capstone1A.pdb
